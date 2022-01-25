@@ -12,11 +12,10 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rengoku-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/4cfa3d1e6662736b519fe245c3a17a58/5185688e622d7f54-ba/s540x810/98d0c8e6edd74e3c10dd24ea0a3c5ca5dea9bece.gifv"> 
+  <img align="right" alt="Rengoku-pic" height="130" style="border-radius:50px;" src="https://64.media.tumblr.com/4cfa3d1e6662736b519fe245c3a17a58/5185688e622d7f54-ba/s540x810/98d0c8e6edd74e3c10dd24ea0a3c5ca5dea9bece.gifv"> 
 </div>
   
 ##
